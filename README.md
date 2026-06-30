@@ -1,6 +1,6 @@
 # Hi, I'm Taru Kulshrestha 👋
 
-**Full-Stack Developer & ML Enthusiast** | Building AI-powered tools for healthcare & developer productivity
+**Software developer, Full-Stack Developer & ML Enthusiast** | Building AI-powered tools for healthcare & developer productivity
 
 ---
 
