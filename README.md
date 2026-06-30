@@ -38,16 +38,15 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TaruKulshrestha&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com/?user=TaruKulshrestha&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaruKulshrestha&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TaruKulshrestha&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false)
 
----
+![GitHub Streak](https://streak-stats.demolab.com/?user=TaruKulshrestha&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TaruKulshrestha&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
 
 ### 🤝 Connect with Me
 
